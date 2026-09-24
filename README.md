@@ -1,28 +1,29 @@
-# AI Procurement Copilot
+# 🤝 AI Procurement Copilot
 
-AI sourcing, spend analysis and vendor negotiation copilot. Part of the **Zion AI App Network** — 100+ interlinked AI business tools by [Zion Tech Group](https://ziontechgroup.com).
+**AI Procurement Copilot** — intelligent sourcing, vendor evaluation, and purchase optimization. Part of the **Zion Tech Group App Network**.
 
-## What it does
+🌐 Live: [ziontechgroup.com/ai-procurement-copilot/](https://ziontechgroup.com/ai-procurement-copilot/)
 
-- Analyzes spend across categories and flags savings opportunities
-- Drafts RFPs, compares bids and summarizes vendor proposals
-- Screens vendor risk continuously and tracks contract obligations
-- Connects procurement decisions to budget and compliance guardrails
+## Features
+- Vendor discovery & automated RFx drafting
+- Spend analysis and savings opportunity detection
+- Contract term extraction and renewal alerts
+- Supplier risk scoring with compliance checks
 
-## Live app
+## 🔗 Related apps in the network
+- [Vendor Risk Screener](https://github.com/Zion-support/vendor-risk-screener) — supplier risk screening
+- [Contract Renewal Radar](https://github.com/Zion-support/contract-renewal-radar) — never miss a renewal
+- [Contract Clause Extractor](https://github.com/Zion-support/contract-clause-extractor) — clause-level contract AI
+- [Incident Runbook AI](https://github.com/Zion-support/incident-runbook-ai) — ops reliability companion
 
-https://ziontechgroup.com/ai-procurement-copilot/
+---
 
-## Works with
+## 🌐 Part of the Zion Tech Group App Network
 
-- [Vendor Risk Screener](https://ziontechgroup.com/vendor-risk-screener/) · [Contract Clause Extractor](https://ziontechgroup.com/contract-clause-extractor/)
-- [Zion AI Contract Guardian](https://ziontechgroup.com/zion-ai-contract-guardian/) · [Zion AI Cost Optimizer](https://ziontechgroup.com/zion-ai-cost-optimizer/)
-- [Incident Runbook AI](https://ziontechgroup.com/incident-runbook-ai/) · [Warranty Claim Triager](https://ziontechgroup.com/warranty-claim-triager/)
+- 🏠 Homepage: [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ Network hub: [zion-support.github.io/zion-network/](https://zion-support.github.io/zion-network/) · [network.ziontechgroup.com](https://network.ziontechgroup.com)
+- 📇 Master index: [APPS_NETWORK.md](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🧭 Category: [Procurement, Vendor & IT Reliability AI](https://github.com/Zion-support/zion-network/blob/main/network/procurement-vendor-it-reliability.md)
+- 📣 Showcase: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/)
 
-## Network
-
-- 🗺️ Master directory: https://github.com/Zion-support/zion-app-network
-- 📇 Index: [APPS_INDEX.md](https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md) · [CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- 💳 Plans: https://ziontechgroup.com/en/plans/ · 🆓 Free AI Discovery: https://ziontechgroup.com/discovery/
-
-© 2026 Zion Tech Group · https://ziontechgroup.com
+*All apps interlinked · CC commercial@ziontechgroup.com*
